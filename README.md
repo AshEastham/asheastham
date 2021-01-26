@@ -2,7 +2,7 @@
 
 I'm a recent university graduate who enjoys web design and devlopment, based in Leeds, UK.
 
-I have a good understanding of front-end technologies/design and I'm currently looking to expand my skillset to become an all round better developer.  I have used some back-end technologies such as PHP, Laravel, MySQL etc and would like to just become and all-round better developer and to gain a good understanding of the work I've completed.
+I have a good understanding of front-end technologies/design and I'm currently looking to expand my skillset to become an all round better developer.  I have used some back-end technologies such as PHP, Laravel, MySQL etc and I now want to get more in-depth with web development to gain a better understanding of the work I've completed.
 
 ### What I'm Focusing On
 
