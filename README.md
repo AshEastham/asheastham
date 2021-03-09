@@ -6,7 +6,7 @@ I have a good understanding of front-end technologies/design and I'm currently l
 
 ### What I'm Focusing On
 
-I'm currently getting more in-depth with JavaScript and JS libraries/frameworks.  I have used JS a little bit but I feel it has changed a lot from my basic understanding so my aim currently is to master JavaScript and then to move onto things like React and maybe some back-end stuff with Node, or some other framework.  I'm always trying to learn new things, whether it be coding, or just something interesting on YouTube or other websites.  
+I'm currently getting more in-depth with JavaScript and JS libraries/frameworks.  My aim currently is to master JavaScript including ES6 and then to move onto things like React and maybe some back-end stuff with Node, or some other framework.  I'm always trying to learn new things, whether it be coding, or just something interesting on YouTube or other websites.  
 
 ### A Little About Myself
 
